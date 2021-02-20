@@ -2,16 +2,6 @@
 
 == hehe
 
-阿asdfsafaa\sfd\asf\asf\
-fa
-fa
-a
-fas
-fd
-A statement.footnote:[Clarification about this statement.]
-
-A bold statement.footnoteref:[disclaimer,Opinions are my own.]
-
-Another bold statement.footnoteref:[disclaimer]
+阿asdfsafaa\adfasfdasft.footnoteref:[disclaimer]
 
 adfa
