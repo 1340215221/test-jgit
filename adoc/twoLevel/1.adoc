@@ -1,6 +1,21 @@
 
 == 11
 
-11111111111111111111111
+111asdfsafa
+asd
+fs
+A statement.footnote:[Clarification about this statement.]
 
-第三方
+A bold statement.footnoteref:[disclaimer,Opinions are my own.]
+
+Another bold statement.footnoteref:[disclaimer]
+
+asf
+sadfd
+A statement.footnote:[Clarification about this statement.]
+
+A bold statement.footnoteref:[disclaimer,Opinions are my own.]
+
+Another bold statement.footnoteref:[disclaimer]
+
+d
